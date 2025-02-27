@@ -3,7 +3,7 @@
 Este projeto contém a modelagem e implementação de um banco de dados para um cenário de e-commerce. O objetivo é fornecer uma estrutura sólida para armazenar informações sobre produtos, fornecedores, clientes, pedidos, pagamentos e entregas.
 
 ## Estrutura de Pastas
-´
+```
 /BancoEcommerce-DIO
 │
 ├── Database/
@@ -22,7 +22,7 @@ Este projeto contém a modelagem e implementação de um banco de dados para um 
 └── Validations/
 ├── validation_results_001.png                   # Arquivo .png contendo o resultado das validações realizadas
 ├── validation_results_002.png                   # Arquivo .png contendo o resultado das validações realizadas
-´
+```
 
 ## Descrição do Banco de Dados
 
